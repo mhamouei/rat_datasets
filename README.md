@@ -9,9 +9,9 @@ In order to clone this repository, please first install the LFS extension by sim
 git lfs install
 ```
 
-Then, it can be cloned like any other repositories:
+Then, it can be cloned by the command below:
 ```
-git clone https://github.com/mhamouei/rat_datasets.git
+git lfs clone https://github.com/mhamouei/rat_datasets.git
 ```
 ### Decompression guide
 
