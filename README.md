@@ -13,6 +13,9 @@ Then, it can be cloned by the command below:
 ```
 git lfs clone https://github.com/mhamouei/rat_datasets.git
 ```
+**If you experienced any issues cloning the repository using LFS, please use the following link to download the files:**
+https://drive.google.com/file/d/1q-xQWhIsdJ-liFa_tApvBXbQNZI316nP/view?usp=sharing
+
 ### Decompression guide
 
 These datasets are huge, so we compressed them using NumPy.
