@@ -1,4 +1,4 @@
-## SQLi and XSS datasets that are used in RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls
+## SQLi and XSS datasets that are used in RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls [[1]](#1)
 
 ### Download guide
 This repository uses Git Large File Storage (LFS). Thus, cloning this repository requires an extra step.
@@ -29,3 +29,7 @@ Finally, run the **extract.py** file:
 ```
 python extract.py
 ```
+
+## References
+<a id="1">[1]</a> 
+[M. Amouei, M. Rezvani and M. Fateh, "RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2021.3095417.](https://doi.org/10.1109/TDSC.2021.3095417)
